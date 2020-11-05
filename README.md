@@ -44,7 +44,9 @@ Skia has a proven track record of industrial-scale project relying on it for all
 |![](extras/bitmap.png)|![](extras/pythagoras.png)|
 |![](extras/filters.png)|![](extras/shaders.png)|
 
-[Skiko](https://github.com/JetBrains/Skiko), Kotlin buildings for Skija
+[Compose for Desktop](https://www.jetbrains.com/lp/compose/), declarative UI toolkit for Kotlin:
+
+|![](extras/compose-apps.png)|![](extras/compose-editor.png)|
 
 ## Why hand-crafted bindings
 
